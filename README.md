@@ -1,4 +1,4 @@
-# N.I-Proyect
+# N.I.-Proyect
 A tool built for those who don't have enough time or want to simplify the process of drawing and tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Draw Tracing Made for You
 
 ### What is N.I.?
@@ -18,7 +18,7 @@ Yes, you can also pin them, customize your way of tracing, adapt to your needs a
 Download the **latest release**, found in release v2.0.
 
 ## Features
-N.I provides a wide range of options to choose from, you can:
+N.I. provides a wide range of options to choose from, you can:
 
 -  Range from normal or adjusted lateral
 -  Choose from a wide range of options.
