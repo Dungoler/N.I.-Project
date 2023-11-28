@@ -45,3 +45,5 @@ You could have more proportions, change the values of:
 > ` margin-top:        Xcm;`
 > ` height:            Ycm;`
 > ` width:             Zcm;`
+
+And add them on a separate folder for your own measurements or share them.
