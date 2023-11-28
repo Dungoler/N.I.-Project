@@ -21,8 +21,8 @@ Download the **latest release**, found in release v2.0.
 N.I. provides a wide range of options to choose from, you can:
 
 -  Range from normal or adjusted lateral
--  Display left or right as preference.
 -  Check info to make your own code.
+-  Display left or right as preference.
 -  Pick from adjusted or normal.
 -  Choose background color.
 -  Choose margin color.
