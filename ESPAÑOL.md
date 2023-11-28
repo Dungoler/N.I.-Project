@@ -23,16 +23,24 @@ Puedes extraer la carpeta dentro del archivo ZIP si así lo deseas; como carpeta
 ## Características
 **_N.I._** proporciona una amplia gama de opciones para elegir, puedes:
 
-- Ir desde normal o lateral ajustado
-- Comprobar la información para hacer su propio código.
-- Mostrar izquierda o derecha según preferencia.
-- Elegir entre ajustado o normal.
-- Elegir color de fondo.
-- Elija color de margen.
-- Compruebe el registro de cambios.
+- Mostrar izquierda o derecha según tu preferencia.
+- Optar por normal o ajustado.
+- Ver el historial de cambios.
+- Elegir el color de margen.
+- Elegir el color de fondo.
+- Hacer tu propio código.
 
-Y principalmente, elija entre:
+Y principalmente, elegir entre:
 
-- [ ] 1.00 CM calco
-- [ ] 0,75 CM calco
-- [ ] 0,50 CM calco
+- [ ] 1.00 CM de margen
+- [ ] 0,75 CM de margen
+- [ ] 0,50 CM de margen
+
+Puedes tener más medidas, al cambiar el valor de:
+
+> ` margin-bottom:     Xcm;`
+> ` margin-right:      Ycm;`
+> ` margin-left:       Zcm;`
+> ` margin-top:        Xcm;`
+> ` height:            Ycm;`
+> ` width:             Zcm;`
