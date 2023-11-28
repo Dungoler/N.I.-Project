@@ -43,5 +43,5 @@ You could have more proportions, change the values of:
 > ` margin-right:      Ycm;`
 > ` margin-left:       Zcm;`
 > ` margin-top:        Xcm;`
-  > ` height:            Ycm;`
+>    ` height:            Ycm;`
 > ` width:             Zcm;`
