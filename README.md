@@ -1,7 +1,7 @@
 # N.I.-Proyect
 A tool built for those who don't have enough time or want to simplify the process of drawing and tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Trace drawing for You
 
-### What is N.I.?
+### What is _N.I._?
 **_N.I_** is a project that started in late 2021 and finished early 2023. It started when I needed to simplify the process of trace drawing; using duct tape wasn't practical as it left traces on the monitor, and finding the duct tape isn't always an easy task. So I thought maybe making a folder with every template I could think of would be a great idea to stop wasting my time figuring out how I was going to put the paper sheet, and here it is, widely featured in options so far.
 
 This project is about **trace drawing**. Haven't you ever found yourself needing to trace draw an online image, but you find yourself short on time, without duct tape, or facing other limitations? **_N.I_** is here to fix that, as it brings the opportunity to choose from various templates made for easy use: just make a tab for the image (right-click/open image in a new tab), hover the mouse in the image, inspect element (right-click/inspect element), make sure you're making changes **ON** the image, and paste the code found in the.txt document that you think meets your preference. If you happen to change your mind, just paste the new code in, and if something goes wrong, it would be just enough reason to refresh the page and try again.
@@ -18,7 +18,7 @@ Yes, you can also pin them, customize your way of tracing, adapt to your needs a
 Download the **latest release**, found in release v2.0.
 
 ## Features
-N.I. provides a wide range of options to choose from, you can:
+**_N.I._** provides a wide range of options to choose from, you can:
 
 -  Range from normal or adjusted lateral
 -  Check info to make your own code.
