@@ -1,5 +1,5 @@
 # N.I.-Project
-[Traducción al español](https://github.com/Dungoler/N.I.-Project/blob/main/ESPA%C3%91OL.md)
+**[Traducción al español](https://github.com/Dungoler/N.I.-Project/blob/main/ESPA%C3%91OL.md)**
 
 A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Tracing for You
 
@@ -15,9 +15,9 @@ This project could only be tested on one monitor in a certain resolution (1680 �
 
 The lateral can also be adjusted, but I highly doubt that the majority of monitors do have a structure where you can either adjust the paper at two points on both the left and right. Again, It is highly recommended using a pencil to check, whenever you're about to trace, if the measurement or the proportion is ideal. Not doing so could cause inconveniences.
 ### Can I opt to make my own measurements for the sheet?
-Yes, you can also pin them, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate. It might help them too! It's always good to have a helping hand within your reach.
+Yes, you can pin them too, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate, you tell me. It might help them too! It's always good to have a helping hand within your reach.
 ## Downloading
-Download the **latest release**, found in release v2.0.
+Download the **latest release**: **_N.I. v2.1_**.
 
 ## Features
 **_N.I._** provides a wide range of options to choose from, you can:
