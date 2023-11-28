@@ -1,4 +1,6 @@
 # N.I.-Project
+Traducción al español
+
 A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Tracing for You
 
 ### What is _N.I._?
