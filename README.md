@@ -23,7 +23,7 @@ You could also extract the file is you want; as a folder, personally, it's more 
 ## Features
 **_N.I._** provides a wide range of options to choose from, you can:
 
--  Range from normal or adjusted lateral
+-  Range from normal or adjusted side.
 -  Check info to make your own code.
 -  Display left or right as preference.
 -  Pick from adjusted or normal.
