@@ -22,7 +22,7 @@ N.I. provides a wide range of options to choose from, you can:
 
 -  Range from normal or adjusted lateral
 -  Display left or right as preference.
--  Check info for your own code.
+-  Check info to make your own code.
 -  Pick from adjusted or normal.
 -  Choose background color.
 -  Choose margin color.
