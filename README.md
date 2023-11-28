@@ -19,6 +19,7 @@ Yes, you can pin them too, customize your way of tracing, adapt to your needs as
 ## Downloading
 Download the **latest release**: **_N.I. v2.1_**.
 
+You could also extract the file is you want; as a folder, personally, it's more presentable, but choose what suits you.
 ## Features
 **_N.I._** provides a wide range of options to choose from, you can:
 
