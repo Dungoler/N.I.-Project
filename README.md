@@ -33,7 +33,15 @@ You could also extract the file is you want; as a folder, personally, it's more 
 
 And mainly, choose from:
 
-- [ ]  1.00 CM tracing
-- [ ]  0.75 CM tracing
-- [ ]  0.50 CM tracing
+- [ ]  1.00 CM margin
+- [ ]  0.75 CM margin
+- [ ]  0.50 CM margin
 
+You could have more proportions, change the values of:
+
+> ` margin-bottom:     Xcm;`
+> ` margin-right:      Ycm;`
+> ` margin-left:       Zcm;`
+> ` margin-top:        Xcm;`
+> ` height:            Ycm;`
+> ` width:             Zcm;`
