@@ -19,6 +19,7 @@ Sí, también puedes anclarlas, personalizar tu forma de trazar, adaptarlas a tu
 ## Descarga
 Descarga la **última versión**: **_N.I. v2.1_**.
 
+Puedes extraer la carpeta dentro del archivo ZIP si así lo deseas; como carpeta, personalmente, es más presentable, pero como tu gustes.
 ## Características
 **_N.I._** proporciona una amplia gama de opciones para elegir, puedes:
 
