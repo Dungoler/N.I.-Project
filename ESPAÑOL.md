@@ -44,3 +44,5 @@ Puedes tener más medidas, al cambiar el valor de:
 > ` margin-top:        Xcm;`
 > ` height:            Ycm;`
 > ` width:             Zcm;`
+
+Y agrégalas a tu propia carpeta separada o compártelas.
