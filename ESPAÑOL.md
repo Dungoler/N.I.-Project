@@ -17,7 +17,12 @@ El lateral también se puede ajustar, pero dudo mucho que la mayoría de los mon
 ### ¿Puedo optar por hacer mis propias medidas para la hoja?
 Sí, también puedes anclarlas, personalizar tu forma de trazar, adaptarlas a tus necesidades como tal para variar los estilos, y hacer lo que quieras con la hoja siempre que te ayude en tu dibujo, tarea, trabajo, etcétera. Puedes compartirlo con tu amigo, pana, grupo del trabajo, etc. Puede que a ellos también les ayude. Siempre es bueno tener una mano amiga a tu alcance.
 ## Descarga
-Descarga la **última versión**: **_N.I. v2.1_**.
+Ver las Adjuntos**⁴** es recomendado antes de dar uso, ya que puede ser confuso a primera vista.
+
+Descarga la **última versión**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
+>  Ver las versiones [aquí](https://github.com/Dungoler/N.I.-Project/releases).
+
+>  Publicar en [problemas](https://github.com/Dungoler/N.I.-Project/issues).
 
 Puedes extraer la carpeta dentro del archivo ZIP si así lo deseas; como carpeta, personalmente, es más presentable, pero como tu gustes.
 ## Características
