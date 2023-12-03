@@ -17,9 +17,14 @@ The lateral can also be adjusted, but I highly doubt that the majority of monito
 ### Can I opt to make my own measurements for the sheet?
 Yes, you can pin them too, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate, you tell me. It might help them too! It's always good to have a helping hand within your reach.
 ## Downloading
-Download the **latest release**: **_N.I. v2.1_**.
+Checking the Attachments**⁴** is recommended before you set usage, as it could be confusing at first glance.
 
-You could also extract the file is you want; as a folder, personally, it's more presentable, but choose what suits you.
+Download the **latest release**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
+>  Check versions [here](https://github.com/Dungoler/N.I.-Project/releases).
+
+>  Submit on [issues](https://github.com/Dungoler/N.I.-Project/issues).
+
+You could also extract the file if you want; as a folder, personally, it's more practical, but choose what suits you.
 ## Features
 **_N.I._** provides a wide range of options to choose from, you can:
 
