@@ -1,4 +1,4 @@
-# Proyecto N.I.
+# <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Me%20when%20no%20graphic%20designer.png" width="48" height="48"/> **Proyecto N.I.**
 **[English translation](https://github.com/Dungoler/N.I.-Project)**
 
 Una herramienta para ahorrar tiempo, facilitar tu manera de calcar y estar cómodo a la hora de hacerlo. N.I. Incluye una gran variadad de opciones en él, puedes ver plantillas ya hechas, y elegir bajo tu gusto, o puedes simplemente hacer tu propia medida que te quede mejor. Más fácil, rápido y cómodo, no pierdas tiempo.
