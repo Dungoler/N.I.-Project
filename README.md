@@ -20,7 +20,7 @@ Yes, you can pin them too, customize your way of tracing, adapt to your needs as
 Checking the Attachments**⁴** is recommended before you set usage, as it could be confusing at first glance.
 
 Download the **latest release**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
->  Check versions [here](https://github.com/Dungoler/N.I.-Project/releases).
+>  Check versions [here](https://github.com/Dungoler/N.I.-Project/tags).
 
 >  Submit on [issues](https://github.com/Dungoler/N.I.-Project/issues).
 
