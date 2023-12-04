@@ -42,13 +42,13 @@ Y principalmente, elegir entre:
 - [ ] 0,50 CM de margen
 
 Puedes tener más medidas, al cambiar el valor de:
-
-> ` margin-bottom:     Xcm;`
-> ` margin-right:      Ycm;`
-> ` margin-left:       Zcm;`
-> ` margin-top:        Xcm;`
-> ` height:            Ycm;`
-> ` width:             Zcm;`
-
+```
+margin-bottom:     Xcm;
+margin-right:      Ycm;
+margin-left:       Zcm;
+margin-top:        Xcm;
+height:            Ycm;
+width:             Zcm;
+```
 Y agrégalas a tu propia carpeta separada o compártelas.
 ## Adjuntos
