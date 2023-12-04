@@ -20,7 +20,7 @@ Sí, también puedes anclarlas, personalizar tu forma de trazar, adaptarlas a tu
 Ver las Adjuntos**⁴** es recomendado antes de dar uso, ya que puede ser confuso a primera vista.
 
 Descarga la **última versión**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
->  Ver las versiones [aquí](https://github.com/Dungoler/N.I.-Project/releases).
+>  Ver las versiones [aquí](https://github.com/Dungoler/N.I.-Project/tags).
 
 >  Publicar en [problemas](https://github.com/Dungoler/N.I.-Project/issues).
 
