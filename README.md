@@ -1,7 +1,7 @@
 # <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Me%20when%20no%20graphic%20designer.png" width="48" height="48"/> N.I. Project
 **[Traducción al español](https://github.com/Dungoler/N.I.-Project/blob/main/ESPA%C3%91OL.md)**
 
-A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Trace Drawing for You
+A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Trace drawing for You
 
 ### What is _N.I._?
 **_N.I_** is a project that started in late 2022 and finished early 2023. It started when I needed to simplify the process of tracing; using duct tape wasn't practical as it left traces on the monitor, and finding the duct tape isn't always an easy task. So I thought maybe making a folder with every template I could think of would be a great idea to stop wasting my time figuring out how I was going to put the paper sheet, and here it is, widely featured in options so far.
