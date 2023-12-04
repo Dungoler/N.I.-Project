@@ -51,3 +51,4 @@ Puedes tener más medidas, al cambiar el valor de:
 > ` width:             Zcm;`
 
 Y agrégalas a tu propia carpeta separada o compártelas.
+## Adjuntos
