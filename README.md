@@ -1,4 +1,4 @@
-# N.I. Project
+# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> N.I. Project
 **[Traducción al español](https://github.com/Dungoler/N.I.-Project/blob/main/ESPA%C3%91OL.md)**
 
 A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Tracing for You
