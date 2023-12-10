@@ -4,9 +4,9 @@
 Una herramienta para ahorrar tiempo, facilitar tu manera de calcar y estar cómodo a la hora de hacerlo. N.I. Incluye una gran variadad de opciones en él, puedes ver plantillas ya hechas, y elegir bajo tu gusto, o puedes simplemente hacer tu propia medida que te quede mejor. Más fácil, rápido y cómodo, no pierdas tiempo.
 
 ### ¿Qué es _N.I._?
-**_N.I_** es un proyecto que comenzó a finales de 2021 y terminó a principios de 2023. Empezó cunado tuve que hacer varios mapas geográficos, y era fastidioso buscar aquella posición que mejor quedara para el trabajo; usar cinta adhesiva no era práctico ya que dejaba marcas en el monitor, y encontrar el teipe no siempre es tarea fácil. Entonces decidí que lo mejor sería hacer una carpeta con toda plantilla que podría resultar útil, en vez de perder mi tiempo viendo cómo voy a poner la hoja y cúanto teipe voy a usar; de todos modos podría ayudar en un futuro. Su nombre _N.I._ sería la abreviación de '_Notas de inspección_' ya que el código se pegaría en las propiedades de la imagen a calcar, encontradas al inspeccionar elemento.
+***N.I*** es un proyecto que comenzó a finales de 2021 y terminó a principios de 2023. Empezó cunado tuve que hacer varios mapas geográficos, y era fastidioso buscar aquella posición que mejor quedara para el trabajo; usar cinta adhesiva no era práctico ya que dejaba marcas en el monitor, y encontrar el teipe no siempre es tarea fácil. Entonces decidí que lo mejor sería hacer una carpeta con toda plantilla que podría resultar útil, en vez de perder mi tiempo viendo cómo voy a poner la hoja y cúanto teipe voy a usar; de todos modos podría ayudar en un futuro. Su nombre _N.I._ sería la abreviación de '_Notas de inspección_' ya que el código se pegaría en las propiedades de la imagen a calcar, encontradas al inspeccionar elemento.
 
-Este proyecto trata del **Calqueo**. ¿No te ha pasado que necesitas calcar una imagen en la pc pero no tienes tiempo para buscar el teipe, comprarlo, o simplemente te da flojera todo? **_N.I._** trata en arreglar eso, dado a que brinda la oportunidad de elegir frente a varias plantillas hechas para un uso fácil; debes: hacer una pestaña para la imagen (botón derecho del ratón / abrir imagen en una nueva pestaña), pasa el ratón por la imagen, da clic en inspeccionar elemento (botón derecho del ratón / inspeccionar elemento), asegúrate de que estás haciendo cambios **EN** la imagen, y pega el código que se encuentra en el documento .txt que se ajusta a tus preferencias. Si cambias de opinión, simplemente pega el nuevo código, y si algo va mal, es cuestión de actualizar la página e intentarlo de nuevo.
+Este proyecto trata del **Calqueo**. ¿No te ha pasado que necesitas calcar una imagen en la pc pero no tienes tiempo para buscar el teipe, comprarlo, o simplemente te da flojera todo? ***N.I.*** trata en arreglar eso, dado a que brinda la oportunidad de elegir frente a varias plantillas hechas para un uso fácil; debes: hacer una pestaña para la imagen (botón derecho del ratón / abrir imagen en una nueva pestaña), pasa el ratón por la imagen, da clic en inspeccionar elemento (botón derecho del ratón / inspeccionar elemento), asegúrate de que estás haciendo cambios **EN** la imagen, y pega el código que se encuentra en el documento .txt que se ajusta a tus preferencias. Si cambias de opinión, simplemente pega el nuevo código, y si algo va mal, es cuestión de actualizar la página e intentarlo de nuevo.
 
 Recuerda que siempre puedes *cambiar el tiempo hasta que el PC entre en modo suspendido*, ya que si no lo cambias puede que el monitor se apague y se vuelve molesto con el tiempo.
 
@@ -17,16 +17,16 @@ El lateral también se puede ajustar, pero dudo mucho que la mayoría de los mon
 ### ¿Puedo optar por hacer mis propias medidas para la hoja?
 Sí, también puedes anclarlas, personalizar tu forma de trazar, adaptarlas a tus necesidades como tal para variar los estilos, y hacer lo que quieras con la hoja siempre que te ayude en tu dibujo, tarea, trabajo, etcétera. Puedes compartirlo con tu amigo, pana, grupo del trabajo, etc. Puede que a ellos también les ayude. Siempre es bueno tener una mano amiga a tu alcance.
 ## Descarga
-Ver las Adjuntos**⁴** es recomendado antes de dar uso, ya que puede ser confuso a primera vista.
+Ver los Adjuntos<sup>**⁴**</sup> es recomendado antes de dar uso, ya que puede ser confuso a primera vista.
 
-Descarga la **última versión**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
+Descarga la **última versión**: ***[N.I. v2.1](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)***.
 >  Ver las versiones [aquí](https://github.com/Dungoler/N.I.-Project/tags).
 
 >  Publicar en [problemas](https://github.com/Dungoler/N.I.-Project/issues).
 
 Puedes extraer la carpeta dentro del archivo ZIP si así lo deseas; como carpeta, personalmente, es más presentable, pero como tu gustes.
 ## Características
-**_N.I._** proporciona una amplia gama de opciones para elegir, puedes:
+***N.I.*** proporciona una amplia gama de opciones para elegir, puedes:
 
 - Mostrar izquierda o derecha según tu preferencia.
 - Optar por normal o ajustado.
