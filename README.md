@@ -4,9 +4,9 @@
 A tool built for those who don't have enough time or want to simplify the process of tracing. With a wide range of options to catch up on and easy to understand, choose from any pre-built way to trace or make your own with the specifications. Easy, Fast, and Doable Trace drawing for You
 
 ### What is _N.I._?
-**_N.I_** is a project that started in late 2022 and finished early 2023. It started when I needed to simplify the process of tracing; using duct tape wasn't practical as it left traces on the monitor, and finding the duct tape isn't always an easy task. So I thought maybe making a folder with every template I could think of would be a great idea to stop wasting my time figuring out how I was going to put the paper sheet, and here it is, widely featured in options so far.
+***N.I*** is a project that started in late 2022 and finished early 2023. It started when I needed to simplify the process of tracing; using duct tape wasn't practical as it left traces on the monitor, and finding the duct tape isn't always an easy task. So I thought maybe making a folder with every template I could think of would be a great idea to stop wasting my time figuring out how I was going to put the paper sheet, and here it is, widely featured in options so far.
 
-This project is about **tracing**. Haven't you ever found yourself needing to trace draw an online image, but you find yourself short on time, without duct tape, or facing other limitations? **_N.I._** is here to fix that, as it brings the opportunity to choose from various templates made for easy use: just make a tab for the image (right-click/open image in a new tab), hover the mouse in the image, inspect element (right-click/inspect element), make sure you're making changes **ON** the image, and paste the code found in the.txt document that you think meets your preference. If you happen to change your mind, just paste the new code in, and if something goes wrong, it would be just enough reason to refresh the page and try again.
+This project is about **tracing**. Haven't you ever found yourself needing to trace draw an online image, but you find yourself short on time, without duct tape, or facing other limitations? ***N.I.*** is here to fix that, as it brings the opportunity to choose from various templates made for easy use: just make a tab for the image (right-click/open image in a new tab), hover the mouse in the image, inspect element (right-click/inspect element), make sure you're making changes **ON** the image, and paste the code found in the.txt document that you think meets your preference. If you happen to change your mind, just paste the new code in, and if something goes wrong, it would be just enough reason to refresh the page and try again.
 
 Good luck with your tracing. Remember, you can always *change the time until the PC turns into suspended mode*, as not changing this may result in the monitor turning off and can get annoying over time.
 
@@ -17,9 +17,9 @@ The lateral can also be adjusted, but I highly doubt that the majority of monito
 ### Can I opt to make my own measurements for the sheet?
 Yes, you can pin them too, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate, you tell me. It might help them too! It's always good to have a helping hand within your reach.
 ## Downloading
-Checking the Attachments**⁴** is recommended before you set usage, as it could be confusing at first glance.
+Checking the Attachments<sup>**⁴**</sup> is recommended before you set usage, as it could be confusing at first glance.
 
-Download the **latest release**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)**.
+Download the **latest release**: ***[N.I. v2.1](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)***.
 
 >  Check versions [here](https://github.com/Dungoler/N.I.-Project/tags).
 
@@ -27,7 +27,7 @@ Download the **latest release**: **[_N.I. v2.1_](https://github.com/Dungoler/N.I
 
 You could also extract the file if you want; as a folder, personally, it's more practical, but choose what suits you.
 ## Features
-**_N.I._** provides a wide range of options to choose from, you can:
+***N.I.*** provides a wide range of options to choose from, you can:
 
 -  Range from normal or adjusted side.
 -  Check info to make your own code.
