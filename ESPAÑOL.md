@@ -52,3 +52,8 @@ width:             Zcm;
 ```
 Y agrégalas a tu propia carpeta separada o compártelas.
 ## Adjuntos
+### - Descargar
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img1.png"/>
+
+### - Descomprimir
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img2esp.png" height="200"/>
