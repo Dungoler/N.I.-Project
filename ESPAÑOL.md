@@ -57,4 +57,9 @@ Y agrégalas a tu propia carpeta separada o compártelas.
 
 ### - Descomprimir
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img2esp.png"/>
-Si no tienes WinRAR, considera usar otro programa o adquiérelo; podrás encontrar tutoriales en Youtobe.
+
+#### Si no posees WinRAR, considera usar otro programa o adquiérelo; podrás encontrar tutoriales en Youtobe.
+
+Posterior a este paso deberías tener una carpeta con el nombre de la versión, dentro puedes elegir el idioma que prefieras para continuar. Formatos > A4 > Fondos puros; y seleccionas los parámetros que se ajusten a tus necesidades.
+
+### - Entrar a uso
