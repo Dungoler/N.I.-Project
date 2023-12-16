@@ -60,6 +60,46 @@ And add them on a separate folder for your own measurements or share them.
 ### - Unzip
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img2eng.png"/>
 
-#### If you dont posess WinRAR, consider using another program or Adquire it; there's tutorials up on Youtobe.
+#### If you don't posess WinRAR, consider using another program or Adquire it; there's tutorials up on Youtobe.
 
-Posterior to this step, you should have a folder with the version's name, in it you can choose the language you prefer to handle. Formats > A4 > Pure fonts; and select the parameters you think suits you.
+Posterior to this step, you should have a folder with the version name, in it you can choose the language you prefer to handle. Formats > A4 > Pure fonts; and select the parameters you think suits you.
+
+### - Start usage
+For this example, i'm going to be using: "English > Formats > A4 > Pure fonts > Black > Normal lateral > No margin > 1 CM > Normal": **RIGHT**
+```
+** PAPER SHEET 1 CM NORMAL **
+
+LEFT
+
+    background-color:  black;
+    stroke-opacity:    00000;
+    margin-bottom:     0.90cm;
+    margin-right:      10.4cm;
+    margin-left:       0.900cm;
+    margin-top:        6.860cm;
+    height:            20.010cm;
+    cursor:            crosshair;
+    width:             26.520000cm;
+
+RIGHT
+
+    width:             26.520000cm;
+    cursor:            crosshair;
+    height:            20.010cm;
+    margin-top:        6.860cm;
+    margin-left:       10.40cm;
+    margin-right:      0.90cm;
+    margin-bottom:     0.90cm;
+    stroke-opacity:    00000;
+    background-color:  black;
+```
+Copy everything inside of **RIGHT**, then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or hover the image, ```Right click``` > ```Inspect```. For **RIGHT**, you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As i'm using **RIGHT**, I will have to move the Inspect bar to the left, first, I will need to move the Activity bar to the top if not already, I press the highlighted button present on the next image:
+
+
+Now, I press the three dots on the top and change the Dock location to the left.
+
+
+After doing so, I make sure you're making changes on the image, and not on any other element; finally, I click here and paste the code found on the text document:
+
+
+For the majority of images, this should be about it, and the only thing left is to put the paper sheet in the monitor. However
