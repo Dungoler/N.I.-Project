@@ -58,3 +58,8 @@ And add them on a separate folder for your own measurements or share them.
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img1.png"/>
 
 ### - Unzip
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img2eng.png"/>
+
+#### If you dont posess WinRAR, consider using another program or Adquire it; there's tutorials up on Youtobe.
+
+Posterior to this step, you should have a folder with the version's name, in it you can choose the language you prefer to handle. Formats > A4 > Pure fonts; and select the parameters you think suits you.
