@@ -15,7 +15,7 @@ This project could only be tested on one monitor in a certain resolution (1680 √
 
 The lateral can also be adjusted, but I highly doubt that the majority of monitors do have a structure where you can either adjust the paper at two points on both the left and right. Again, It is highly recommended using a pencil to check, whenever you're about to trace, if the measurement or the proportion is ideal. Not doing so could cause inconveniences.
 ### Can I opt to make my own measurements for the sheet?
-Yes, you can pin them too, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate, you tell me. It might help them too! It's always good to have a helping hand within your reach.
+Yes, you can pin them too, customize your way of tracing, adapt to your needs as such to vary the styles, and do whatever you like with the sheet as long as it helps you in your drawing, homework, task, etcetera. You can share this with your partner, friend, co-worker or workmate, you tell. It might help them too! It's always good to have a helping hand within your reach.
 ## Downloading
 Checking the Attachments<sup>**‚Å¥**</sup> is recommended before you set usage, as it could be confusing at first glance.
 
