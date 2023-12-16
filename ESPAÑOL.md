@@ -56,4 +56,5 @@ Y agrégalas a tu propia carpeta separada o compártelas.
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img1.png"/>
 
 ### - Descomprimir
-
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img2esp.png"/>
+Si no tienes WinRAR, considera usar otro programa o adquiérelo; podrás encontrar tutoriales en Youtobe.
