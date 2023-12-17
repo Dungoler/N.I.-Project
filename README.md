@@ -23,7 +23,7 @@ Download the **latest release**: ***[N.I. v2.1](https://github.com/Dungoler/N.I.
 
 >  Check versions [here](https://github.com/Dungoler/N.I.-Project/tags).
 
->  Submit on [issues](https://github.com/Dungoler/N.I.-Project/issues).
+>  Submit on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
 
 You could also extract the file if you want; as a folder, personally, it's more practical, but choose what suits you.
 ## Features
@@ -95,14 +95,17 @@ RIGHT
     stroke-opacity:    00000;
     background-color:  black;
 ```
-Copy everything inside of **RIGHT**, then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or hover the image, ```Right click``` > ```Inspect```. For **RIGHT**, you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As i'm using **RIGHT**, I will have to move the Inspect bar to the left, first, I will need to move the Activity bar to the top if not already, I press the highlighted button present on the next image:
+Copy everything inside of **RIGHT**, then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or ```Control``` + ```Shift``` + ```C``` or hover the image, ```Right click``` > ```Inspect```. For **RIGHT**, you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As we're using **RIGHT**, you will have to move the Inspect bar to the left. **IF YOU'RE USING EDGE BROWSER**: first, you will need to move the Activity bar to the top if not already, I press the highlighted button present on the next image:
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
 Now, I press the three dots on the top and change the Dock location to the left:
 
 
-After doing so, I make sure you're making changes on the image, and not on any other element; finally, I click here and paste the code found on the text document:
+**NOTE**: I don´t recomment using edge browser for tracing with N.I.. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
 
+After doing so, make sure you're making changes on the image, and not on any other element; finally, click here and paste the code found on **RIGHT**, in the text document:
+
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img4.png"/>
 
 For the majority of images, this should be about it, and the only thing left is to put the paper sheet in the monitor. However
