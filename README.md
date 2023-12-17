@@ -118,6 +118,10 @@ Finally, click here and paste the code found on **RIGHT**, in the text document:
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img5.png"/>
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img6.png"/>
 <p>
+
+### Final result:
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img7.png"/>
+
 For the majority of images, this should be about it, and the only thing left is to put the paper sheet in the monitor. However, some images reset the put values, and return to its base state when interacting with the tab. If the chosen image features this ocurrence, you should avoid:
 
 - Closing the inspect bar or undock into separate window.
