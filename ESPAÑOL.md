@@ -62,4 +62,7 @@ Y agrégalas a tu propia carpeta separada o compártelas.
 
 Posterior a este paso deberías tener una carpeta con el nombre de la versión, dentro puedes elegir el idioma que prefieras para continuar. Formatos > A4 > Fondos puros; y seleccionas los parámetros que se ajusten a tus necesidades.
 
-### - Entrar a uso
+### - Dar a uso
+#### IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más.
+
+Para este ejemplo, voy
