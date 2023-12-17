@@ -102,10 +102,29 @@ Copy everything inside of **RIGHT**, then find the tab for the image you want to
 Now, I press the three dots on the top and change the Dock location to the left:
 
 
-**NOTE**: I don´t recomment using edge browser for tracing with N.I.. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
+**NOTE**: I don´t recomment using edge browser for tracing with N.I.. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements either that or a slide bar that will hide part of the image. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
 
-After doing so, make sure you're making changes on the image, and not on any other element; finally, click here and paste the code found on **RIGHT**, in the text document:
-
+After doing so, make sure you're making changes on the image, the selected element should start with something like:
+```
+"<img style="
+```
+In this case, the must-select HTML element looks like this:
+```
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://mapamundi.online/wp-content/uploads/2019/06/mapamundi-politico-con-nombres-de-paises-para-imprimir.jpg" width="1421" height="741">
+```
+Finally, click here and paste the code found on **RIGHT**, in the text document:
+<p float="left">
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img4.png"/>
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img5.png"/>
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img6.png"/>
+<p>
+For the majority of images, this should be about it, and the only thing left is to put the paper sheet in the monitor. However, some images reset the put values, and return to its base state when interacting with the tab. If the chosen image features this ocurrence, you should avoid:
 
-For the majority of images, this should be about it, and the only thing left is to put the paper sheet in the monitor. However
+- Closing the inspect bar or undock into separate window.
+
+- Exiting fullscreen mode.
+
+- Clicking the image.
+
+Instead of Exiting fullscreen mode to enter to another tab or app, do ```Control``` + ```(Order number of another open tab)```, and if the Image tab is the only open tab on the browser task, do ```Control``` + ```T``` then ```Control``` + ```2```. 
+- **Pro tip**: ```Alt``` + ```F4``` doesn't close a single a tab, but the entire browser task; hope you don't need this.
