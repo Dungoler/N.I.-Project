@@ -130,5 +130,5 @@ For the majority of images, this should be about it, and the only thing left is 
 
 - Clicking the image.
 
-Instead of Exiting fullscreen mode to enter to another tab or app, do ```Control``` + ```(Order number of another open tab)```, and if the Image tab is the only open tab on the browser task, do ```Control``` + ```T``` then ```Control``` + ```2```. 
+Instead of Exiting fullscreen mode to enter to another tab or app, do ```Control``` + ```(Order number of another open tab)```. If the Image tab is the only open tab on the browser task, do ```Control``` + ```T``` then ```Control``` + ```2```. 
 - **Pro tip**: ```Alt``` + ```F4``` doesn't close a single a tab, but the entire browser task; hope you don't need this.
