@@ -65,4 +65,30 @@ Posterior a este paso deberías tener una carpeta con el nombre de la versión, 
 ### - Dar a uso
 #### IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más.
 
-Para este ejemplo, voy
+Para este ejemplo, voy a estar usando la **DERECHA** de "Español > Formatos > A4 > Fondos puros > Negro > Lateral normal > Sin borde > 1 CM > Normal"
+```
+** PAPER SHEET 1 CM NORMAL **
+
+LEFT
+
+    background-color:  black;
+    stroke-opacity:    00000;
+    margin-bottom:     0.90cm;
+    margin-right:      10.4cm;
+    margin-left:       0.900cm;
+    margin-top:        6.860cm;
+    height:            20.010cm;
+    cursor:            crosshair;
+    width:             26.520000cm;
+
+RIGHT
+
+    width:             26.520000cm;
+    cursor:            crosshair;
+    height:            20.010cm;
+    margin-top:        6.860cm;
+    margin-left:       10.40cm;
+    margin-right:      0.90cm;
+    margin-bottom:     0.90cm;
+    stroke-opacity:    00000;
+    background-color:  black;
