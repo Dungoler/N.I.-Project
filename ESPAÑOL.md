@@ -117,7 +117,7 @@ Finalmente, haz click acá y pega el código dentro de '**DERECHA**', presente e
 <p>
 
 ### Resultado final:
-
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img7esp.png"/>
 
 Para la mayoría de imagenes, esto sería todo, y lo único que quedaría sería poner la hoja blanca en el monitor sin preocupaciones. Sin embargo, algunas imagenes reinician los valores ingresados, y regresan a su estado base cuando se interactúa con la pestaña. Si la imagen seleccionada trata esto, debes evitar:
 
