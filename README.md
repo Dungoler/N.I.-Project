@@ -65,7 +65,7 @@ And add them on a separate folder for your own measurements or share them.
 Posterior to this step, you should have a folder with the version name, in it you can choose the language you prefer to handle. Formats > A4 > Pure fonts; and select the parameters you think suits you.
 
 ### - Set usage
-#### IMPORTANT: Measures will likely be off-set in your monitor, i highly recommend using a pencil to check if the measure is correct, if not the case, change the _V-position_ and _H-position_ of your monitor to get full accuracy. Don't know how? Your monitor should have a button somewhere to open a menu, this menu brings the ability to customize both values and more.
+#### [IMPORTANT: Measures will likely be off-set in your monitor, i highly recommend using a pencil to check if the measure is correct, if not the case, change the _V-position_ and _H-position_ of your monitor to get full accuracy. Don't know how? Your monitor should have a button somewhere to open a menu, this menu brings the ability to customize both values and more.]
 
 For this example, i'm going to be using: "English > Formats > A4 > Pure fonts > Black > Normal lateral > No outline > 1 CM > Normal": **RIGHT**
 ```
@@ -102,7 +102,7 @@ Copy everything inside of '**RIGHT**', then find the tab for the image you want 
 Now, press the three dots on the top and change the Dock location to the left, as we're working with '**RIGHT**'
 
 
-**NOTE**: I don´t recommend using edge browser for tracing with ***N.I.***. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements, either that or a slide bar that will hide part of the image. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
+[**NOTE**: I don´t recommend using edge browser for tracing with ***N.I.***. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements, either that or a slide bar that will hide part of the image. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).]
 
 After doing so, make sure you're making changes on the image, the selected element should start with something like:
 ```
