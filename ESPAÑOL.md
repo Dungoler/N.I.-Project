@@ -22,7 +22,7 @@ Ver los Adjuntos<sup>**⁴**</sup> es recomendado antes de dar uso, ya que puede
 Descarga la **última versión**: ***[N.I. v2.1](https://github.com/Dungoler/N.I.-Project/releases/tag/v2.1)***.
 >  Ver las versiones [aquí](https://github.com/Dungoler/N.I.-Project/tags).
 
->  Publicar en [problemas](https://github.com/Dungoler/N.I.-Project/issues).
+>  Publicar en [Issues](https://github.com/Dungoler/N.I.-Project/issues).
 
 Puedes extraer la carpeta dentro del archivo ZIP si así lo deseas; como carpeta, personalmente, es más presentable, pero como tu gustes.
 ## Características
