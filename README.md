@@ -95,11 +95,11 @@ RIGHT
     stroke-opacity:    00000;
     background-color:  black;
 ```
-Copy everything inside of **RIGHT**, then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or ```Control``` + ```Shift``` + ```C``` or hover the image, ```Right click``` > ```Inspect```. For **RIGHT**, you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As we're using **RIGHT**, you will have to move the Inspect bar to the left. **IF YOU'RE USING EDGE BROWSER**: first, you will need to move the Activity bar to the top if not already, I press the highlighted button present on the next image:
+Copy everything inside of '**RIGHT**', then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or ```Control``` + ```Shift``` + ```C``` or hover the image, ```Right click``` > ```Inspect```. For '**RIGHT**', you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As we're using '**RIGHT**', you will have to move the Inspect bar to the left. **IF YOU'RE USING EDGE BROWSER**: first, you will need to move the Activity bar to the top if not already, press the highlighted button present on the next image:
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
-Now, I press the three dots on the top and change the Dock location to the left:
+Now, press the three dots on the top and change the Dock location to the left, as we're working with '**RIGHT**'
 
 
 **NOTE**: I don´t recomment using edge browser for tracing with N.I.. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements either that or a slide bar that will hide part of the image. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).
