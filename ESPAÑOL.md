@@ -98,3 +98,33 @@ Copia todo dentro de '**DERECHA**', luego entra a la pestaña de la imagen que q
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
 Ahora, presiona los tres puntos arriba y cambia la ubicación del dock a la izuiqerda, ya que estamos trabajando con '**DERECHA**'
+
+**NOTA**: No recomiendo usar el navegador Edge para calcar con ***N.I.***. La razón es porque Edge tiene un borde en el modo Inspeccionar elemento sea pantalla completa o no; este borde superpone el margen y, por ejemplo, en vez de tener un margen de 1 CM, tienes 1 CM de margen derecho e inferior por lo tanto teniendo un margen inconsistente en cada lado en términos de medidas, eso o tener una barra de deslizamiento que oculta parte de la imagen. Si encuentras una manera de ocultar esta característica, agradecería que nos contaras sobre eso en [Issues](https://github.com/Dungoler/N.I.-Project/issues).
+
+Ya hecho eso, asegúrate de que estés haciendo cambios en la imagen, el elemento seleccionado debería comenzar por algo como:
+```
+"<img style="
+```
+En este caso, el elemento HTML que debe ser seleccionado se ve así:
+```
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://mapamundi.online/wp-content/uploads/2019/06/mapamundi-politico-con-nombres-de-paises-para-imprimir.jpg" width="1421" height="741">
+```
+Finalmente, haz click acá y pega el código dentro de '**DERECHA**', presente en el documento de texto:
+<p float="left">
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img4.png"/>
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img5.png"/>
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img6.png"/>
+<p>
+
+### Resultado final:
+
+
+Para la mayoría de imagenes, esto sería todo, y lo único que quedaría sería poner la hoja blanca en el monitor sin preocupaciones. Sin embargo, algunas imagenes reinician los valores ingresados, y regresan a su estado base cuando se interactúa con la pestaña. Si la imagen seleccionada trata esto, debes evitar:
+
+- Cerrar la Barra de inspección o desacoplar a una venta separada.
+
+- Salir de pantalla completa.
+
+- Hacer click en la imagen.
+
+En vez de salir del modo Pantalla completa para entrar a otra pestaña o app, presiona ```Control``` + ```(Número de orden de otra pestaña)```. Si la pestaña de la imagen es la única pestaña abierta en la tarea del navegador, haz ```Control``` + ```T```, y para volver ```Control``` + ```1```.
