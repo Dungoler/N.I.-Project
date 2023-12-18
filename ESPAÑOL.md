@@ -67,9 +67,9 @@ Posterior a este paso deberías tener una carpeta con el nombre de la versión, 
 
 Para este ejemplo, voy a estar usando la **DERECHA** de "Español > Formatos > A4 > Fondos puros > Negro > Lateral normal > Sin borde > 1 CM > Normal"
 ```
-** PAPER SHEET 1 CM NORMAL **
+** HOJA BLANCA 1 CM NORMAL **
 
-LEFT
+IZQUIERDA
 
     background-color:  black;
     stroke-opacity:    00000;
@@ -81,7 +81,7 @@ LEFT
     cursor:            crosshair;
     width:             26.520000cm;
 
-RIGHT
+DERECHA
 
     width:             26.520000cm;
     cursor:            crosshair;
@@ -92,3 +92,9 @@ RIGHT
     margin-bottom:     0.90cm;
     stroke-opacity:    00000;
     background-color:  black;
+```
+Copia todo dentro de '**DERECHA**', luego entra a la pestaña de la imagen que quieres calcar. Para este ejemplo, voy a usar una imagen de un mapamundi. Abre la imagen en una nueva pestaña (```Click derecho``` > ```Abrir imagen en una nueva pestaña```). Luego, entra a la pestaña, entra a pantalla completa y presiona ```Control``` + ```Shift``` + ```I``` o ```Control``` + ```Shift``` + ```C``` o pasa el mouse sobre la imagen, ```Right click``` > ```Inspeccionar```. Para '**DERECHA**', vas a tener que mover la Barra de actividades para arriba si no lo está, presiona el botón resaltado en la siguiente imagen:
+
+<img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
+
+Ahora, presiona los tres puntos arriba y cambia la ubicación del dock a la izuiqerda, ya que estamos trabajando con '**DERECHA**'
