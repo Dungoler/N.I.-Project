@@ -67,7 +67,7 @@ Posterior to this step, you should have a folder with the version name, in it yo
 ### - Set usage
 #### [IMPORTANT: Measures will likely be off-set in your monitor, i highly recommend using a pencil to check if the measure is correct, if not the case, change the _V-position_ and _H-position_ of your monitor to get full accuracy. Don't know how? Your monitor should have a button somewhere to open a menu, this menu brings the ability to customize both values and more.]
 
-For this example, i'm going to be using: "English > Formats > A4 > Pure fonts > Black > Normal lateral > No outline > 1 CM > Normal": **RIGHT**
+For this example, i'm going to be using: "English > Formats > A4 > Pure fonts > Black > Normal lateral > No outline > 1 CM > Normal": **RIGHT**:
 ```
 ** PAPER SHEET 1 CM NORMAL **
 
