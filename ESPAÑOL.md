@@ -63,9 +63,9 @@ Y agrégalas a tu propia carpeta separada o compártelas.
 Posterior a este paso deberías tener una carpeta con el nombre de la versión, dentro puedes elegir el idioma que prefieras para continuar. Formatos > A4 > Fondos puros; y seleccionas los parámetros que se ajusten a tus necesidades.
 
 ### - Dar a uso
-#### IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más.
+#### [IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más.]
 
-Para este ejemplo, voy a estar usando la **DERECHA** de "Español > Formatos > A4 > Fondos puros > Negro > Lateral normal > Sin borde > 1 CM > Normal"
+Para este ejemplo, voy a estar usando la **DERECHA** de "Español > Formatos > A4 > Fondos puros > Negro > Lateral normal > Sin borde > 1 CM > Normal".
 ```
 ** HOJA BLANCA 1 CM NORMAL **
 
@@ -97,9 +97,9 @@ Copia todo dentro de '**DERECHA**', luego entra a la pestaña de la imagen que q
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
-Ahora, presiona los tres puntos arriba y cambia la ubicación del dock a la izuiqerda, ya que estamos trabajando con '**DERECHA**'
+Ahora, presiona los tres puntos arriba y cambia la ubicación del dock a la izuiqerda, ya que estamos trabajando con '**DERECHA**'.
 
-**NOTA**: No recomiendo usar el navegador Edge para calcar con ***N.I.***. La razón es porque Edge tiene un borde en el modo Inspeccionar elemento sea pantalla completa o no; este borde superpone el margen y, por ejemplo, en vez de tener un margen de 1 CM, tienes 1 CM de margen derecho e inferior por lo tanto teniendo un margen inconsistente en cada lado en términos de medidas, eso o tener una barra de deslizamiento que oculta parte de la imagen. Si encuentras una manera de ocultar esta característica, agradecería que nos contaras sobre eso en [Issues](https://github.com/Dungoler/N.I.-Project/issues).
+[**NOTA**: No recomiendo usar el navegador Edge para calcar con ***N.I.***. La razón es porque Edge tiene un borde en el modo Inspeccionar elemento sea pantalla completa o no; este borde superpone el margen y, por ejemplo, en vez de tener un margen de 1 CM, tienes 1 CM de margen derecho e inferior por lo tanto teniendo un margen inconsistente en cada lado en términos de medidas, eso o tener una barra de deslizamiento que oculta parte de la imagen. Si encuentras una manera de ocultar esta característica, agradecería que nos contaras sobre eso en [Issues](https://github.com/Dungoler/N.I.-Project/issues).]
 
 Ya hecho eso, asegúrate de que estés haciendo cambios en la imagen, el elemento seleccionado debería comenzar por algo como:
 ```
