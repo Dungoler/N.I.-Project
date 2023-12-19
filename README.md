@@ -99,7 +99,7 @@ Copy everything inside of '**RIGHT**', then find the tab for the image you want 
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
-Now, press the three dots on the top and change the Dock location to the left, as we're working with '**RIGHT**'
+Now, press the three dots on the top and change the Dock location to the left, as we're working with '**RIGHT**'.
 
 
 [**NOTE**: I don´t recommend using edge browser for tracing with ***N.I.***. The reason is because edge has an outline for fullscreen and Non-fullscreen Inspect Element mode; this outline overrides the margin and, for example, instead of having 1 CM of margin, you get 1.10 CM of right and lower margin thus having an unconsistent margin on the sides in terms of measurements, either that or a slide bar that will hide part of the image. If you find a way to hide this feature, i would greatly appreciate if you told us about it on [Issues](https://github.com/Dungoler/N.I.-Project/issues).]
