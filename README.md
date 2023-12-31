@@ -65,7 +65,7 @@ And add them on a separate folder for your own measurements or share them.
 Posterior to this step, you should have a folder with the version name, in it you can choose the language you prefer to handle. Formats > A4 > Pure fonts; and select the parameters you think suits you.
 
 ### - Set usage
-#### [IMPORTANT: Measures will likely be off-set in your monitor, i highly recommend using a pencil to check if the measure is correct, if not the case, change the _V-position_ and _H-position_ of your monitor to get full accuracy. Don't know how? Your monitor should have a button somewhere to open a menu, this menu brings the ability to customize both values and more.]
+#### [IMPORTANT: Measures will likely be off-set in your monitor, i highly recommend using a pencil to check if the measure is correct, if not the case, change the _V-position_ and _H-position_ of your monitor to get full accuracy. Don't know how? Your monitor should have a button somewhere to open a menu, this menu brings the ability to customize both values and more. Do this ONLY in case the button that adjust automaticly the resolution (Likely marked by the name of '_auto_') does not concile with the desired measurements.]
 
 For this example, i'm going to be using: "English > Formats > A4 > Pure fonts > Black > Normal lateral > No outline > 1 CM > Normal": **RIGHT**:
 ```
@@ -95,7 +95,7 @@ RIGHT
     stroke-opacity:    00000;
     background-color:  black;
 ```
-Copy everything inside of '**RIGHT**', then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or ```Control``` + ```Shift``` + ```C``` or hover the image, ```Right click``` > ```Inspect```. For '**RIGHT**', you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the left. As we're using '**RIGHT**', you will have to move the Inspect bar to the left. **IF YOU'RE USING EDGE BROWSER**: first, you will need to move the Activity bar to the top if not already, press the highlighted button present on the next image:
+Copy everything inside of '**RIGHT**', then find the tab for the image you want to trace. For this example, i'm using an image of the World map. Open the image in a new tab (```Right click``` > ```Open image in a new tab```). Then, enter the tab, enter fullscreen mode and press ```Control``` + ```Shift``` + ```I``` or ```Control``` + ```Shift``` + ```C``` or hover the image, ```Right click``` > ```Inspect```. For '**RIGHT**', you will have to move the Inspect bar to the left. For **LEFT**, the Inspect bar must be in the right. As we're using '**RIGHT**', you will have to move the Inspect bar to the left. **IF YOU'RE USING EDGE BROWSER**: first, you will need to move the Activity bar to the top if not already, press the highlighted button present on the next image:
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
