@@ -63,7 +63,7 @@ Y agrégalas a tu propia carpeta separada o compártelas.
 Posterior a este paso deberías tener una carpeta con el nombre de la versión, dentro puedes elegir el idioma que prefieras para continuar. Formatos > A4 > Fondos puros; y seleccionas los parámetros que se ajusten a tus necesidades.
 
 ### - Dar a uso
-#### [IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más.]
+#### [IMPORTANTE: Es muy probable que las medidas no concuerden con tus necesidades en tu monitor, altamente recomiendo usar un lápiz para comprobar si las medidas son correctas, si no es el caso, cambia la _V-position_ y la _H-position_ (Posición vertical y horizontal) para tener completa exactitud. ¿No sabes cómo? Tu monitor debería tener un botón en algún lado que abre un menú, este menú brinda la abilidad de customizar ambos valores y más. Haz esto ÚNICAMENTE si el botón qur ajusta automáticamente la resolución (normalmente citado con el nombre '_auto_') no coincide con las medidas deseadas.]
 
 Para este ejemplo, voy a estar usando la **DERECHA** de "Español > Formatos > A4 > Fondos puros > Negro > Lateral normal > Sin borde > 1 CM > Normal".
 ```
@@ -93,7 +93,7 @@ DERECHA
     stroke-opacity:    00000;
     background-color:  black;
 ```
-Copia todo dentro de '**DERECHA**', luego entra a la pestaña de la imagen que quieres calcar. Para este ejemplo, voy a usar una imagen de un mapamundi. Abre la imagen en una nueva pestaña (```Click derecho``` > ```Abrir imagen en una nueva pestaña```). Luego, entra a la pestaña, entra a pantalla completa y presiona ```Control``` + ```Shift``` + ```I``` o ```Control``` + ```Shift``` + ```C``` o pasa el mouse sobre la imagen, ```Right click``` > ```Inspeccionar```. Para '**DERECHA**', vas a tener que mover la Barra de actividades para arriba si no lo está, presiona el botón resaltado en la siguiente imagen:
+Copia todo dentro de '**DERECHA**', luego entra a la pestaña de la imagen que quieres calcar. Para este ejemplo, voy a usar una imagen de un mapamundi. Abre la imagen en una nueva pestaña (```Click derecho``` > ```Abrir imagen en una nueva pestaña```). Luego, entra a la pestaña, entra a pantalla completa y presiona ```Control``` + ```Shift``` + ```I``` o ```Control``` + ```Shift``` + ```C``` o pasa el mouse sobre la imagen, ```Right click``` > ```Inspeccionar```. Para '**IZQUIERDA**, la barra de inspección debe de estar posicionada en la derecha. Siendo que se está trabajando con '**DERECHA**', vas a tener que mover la Barra de actividades para arriba si no lo está, presiona el botón resaltado en la siguiente imagen:
 
 <img src="https://github.com/Dungoler/N.I.-Project/blob/main/Library/N.I%20Img/Attachments/Img3.png"/>
 
